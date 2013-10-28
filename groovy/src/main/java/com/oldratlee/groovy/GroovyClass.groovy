@@ -1,4 +1,4 @@
-package com.oldratlee.sharding
+package com.oldratlee.groovy
 
 /**
  * @author ding.lid

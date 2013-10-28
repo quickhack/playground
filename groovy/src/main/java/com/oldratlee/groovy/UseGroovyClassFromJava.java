@@ -1,15 +1,10 @@
-package com.oldratlee.sharding;
+package com.oldratlee.groovy;
 
 /**
  * @author ding.lid
  */
-public class CallGroovyFromJava {
+public class UseGroovyClassFromJava {
     public static void main(String[] args) {
-        GroovyHello.main(args);
-        
-        GroovyHello hello = new GroovyHello();
-        hello.run();
-        
         GroovyClass groovyObj = new GroovyClass();
         groovyObj.setName("Jerry");
         groovyObj.setValue(123);
