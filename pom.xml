@@ -11,5 +11,6 @@
 	<modules>
 		<module>javassit-agent</module>
 		<module>groovy</module>
+		<module>consistent-hash</module>
 	</modules>
 </project>
