@@ -1,4 +1,6 @@
-package com.oldratlee.groovy;
+package com.oldratlee.groovy.java;
+
+import com.oldratlee.groovy.GroovyHello;
 
 /**
  * @author ding.lid

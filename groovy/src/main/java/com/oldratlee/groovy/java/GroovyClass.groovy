@@ -1,4 +1,4 @@
-package com.oldratlee.groovy
+package com.oldratlee.groovy.java
 
 /**
  * @author ding.lid

@@ -1,7 +1,7 @@
 /**
  * http://groovy.codehaus.org/Regular+Expressions
  */
-package com.oldratlee.groovy
+package com.oldratlee.groovy.regex
 
 import java.util.regex.Matcher
 import java.util.regex.Pattern

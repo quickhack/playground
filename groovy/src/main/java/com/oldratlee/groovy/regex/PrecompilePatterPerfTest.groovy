@@ -1,4 +1,4 @@
-package com.oldratlee.groovy
+package com.oldratlee.groovy.regex
 
 tick = System.currentTimeMillis();
 (10 ** 5).times {
